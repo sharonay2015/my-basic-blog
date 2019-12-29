@@ -1,0 +1,6 @@
+// tells babel how to transform es6 to common js 
+{
+  "presets": [
+    "@babel/preset-env"
+  ]
+}
