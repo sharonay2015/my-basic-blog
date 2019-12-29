@@ -1,5 +1,6 @@
 {
   "name": "basic-blog-backend",
+  "homepage": "https://blog.sharonayoung.net",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
